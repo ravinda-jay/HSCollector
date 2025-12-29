@@ -1,0 +1,2533 @@
+{
+  "submission_urls": [
+    {
+      "job_id": "69511471652394775b008478",
+      "url": "https://shop-renamax.com.ua/",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "shop-renamax.com.ua"
+      ],
+      "hosts": [
+        "185.104.45.25",
+        "142.250.176.202",
+        "142.250.190.227",
+        "142.250.80.65"
+      ],
+      "environment_id": 140,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6951139aefc98a3643018260",
+      "url": null,
+      "domains": [
+        "api.github.com",
+        "fastly.jsdelivr.net",
+        "ghfast.top",
+        "github.moeyy.xyz"
+      ],
+      "hosts": [
+        "140.82.114.6",
+        "172.245.43.106",
+        "167.82.49.229"
+      ],
+      "environment_id": 160,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6951124a61355d263c0ef1b6",
+      "url": "https://www.jtmate.com/api/certificat",
+      "domains": [
+        "cdnjs.cloudflare.com",
+        "www.jtmate.com"
+      ],
+      "hosts": [
+        "43.130.28.197",
+        "104.17.25.14"
+      ],
+      "environment_id": 160,
+      "threat_score": 70,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6951108f94ea6a8b2f0531fa",
+      "url": "https://www.ishortn.ink/",
+      "domains": [
+        "cdn.headwayapp.co",
+        "clerk.ishortn.ink",
+        "clients2.googleusercontent.com",
+        "umami.kelvinamoaba.com",
+        "us-assets.i.posthog.com",
+        "us.i.posthog.com",
+        "www.clarity.ms",
+        "www.ishortn.ink",
+        "y.clarity.ms"
+      ],
+      "hosts": [
+        "216.150.1.129",
+        "37.27.83.129",
+        "104.18.34.146",
+        "104.20.17.167",
+        "35.171.126.180",
+        "4.153.187.221",
+        "172.171.87.38",
+        "79.127.206.234",
+        "142.250.80.65",
+        "34.207.47.152"
+      ],
+      "environment_id": 140,
+      "threat_score": 83,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "69511067b7366da19309c285",
+      "url": null,
+      "domains": [
+        "accounts.google.com",
+        "apis.google.com",
+        "clients2.google.com",
+        "clients2.googleusercontent.com",
+        "clientservices.googleapis.com",
+        "gitlab.com",
+        "intercttp.xyz",
+        "ogads-pa.clients6.google.com",
+        "pastebin.com",
+        "play.google.com",
+        "steamcommunity.com",
+        "www.google.com",
+        "www.googleapis.com",
+        "www.gstatic.com"
+      ],
+      "hosts": [
+        "172.66.171.73",
+        "172.65.251.78",
+        "184.30.89.225",
+        "83.217.209.227",
+        "142.251.185.84",
+        "142.250.188.10",
+        "142.250.80.35",
+        "142.250.64.110",
+        "142.250.80.65",
+        "142.250.188.4",
+        "142.251.32.99",
+        "142.251.40.202",
+        "142.251.45.174",
+        "142.250.217.14"
+      ],
+      "environment_id": 140,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "695110406a38b342cf020713",
+      "url": "https://coachinguniversity.cz/",
+      "domains": [
+        "a.nel.cloudflare.com",
+        "analytics.google.com",
+        "app.manychat.com",
+        "assets.calendly.com",
+        "coachinguniversity.cz",
+        "connect.facebook.net",
+        "googleads.g.doubleclick.net",
+        "mccdn.me",
+        "static.cloudflareinsights.com",
+        "stats.g.doubleclick.net",
+        "widget.manychat.com",
+        "www.facebook.com",
+        "www.google.com"
+      ],
+      "hosts": [
+        "104.21.63.108",
+        "31.13.70.36",
+        "57.144.132.128",
+        "104.18.41.175",
+        "104.16.80.73",
+        "142.250.188.4",
+        "18.185.191.84",
+        "64.233.180.154",
+        "216.239.36.181",
+        "142.251.40.130",
+        "104.26.14.135",
+        "3.69.37.240",
+        "35.190.80.1"
+      ],
+      "environment_id": 160,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "69510ecd8f45663be808a3c3",
+      "url": "https://www.84302764.xyz/",
+      "domains": [
+        "asset.html-load.com",
+        "clients2.googleusercontent.com",
+        "csp.withgoogle.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "html-load.com",
+        "www.84302764.xyz",
+        "www.google.com",
+        "www.gstatic.com"
+      ],
+      "hosts": [
+        "172.67.73.29",
+        "104.18.21.31",
+        "142.250.190.227",
+        "142.250.176.202",
+        "142.250.188.4",
+        "142.251.32.99",
+        "142.251.41.177",
+        "142.250.80.65",
+        "69.192.139.213"
+      ],
+      "environment_id": 140,
+      "threat_score": 33,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "69510ebe7b577ef5120d93db",
+      "url": null,
+      "domains": [
+        "doomsdayclient.com"
+      ],
+      "hosts": [
+        "165.22.196.0"
+      ],
+      "environment_id": 140,
+      "threat_score": 53,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "69510e36fc6d60efed0f4ba1",
+      "url": null,
+      "domains": [
+        "community.sophos.com",
+        "www.sandboxie.com"
+      ],
+      "hosts": [
+        "99.84.160.45",
+        "45.60.31.181"
+      ],
+      "environment_id": 160,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "69510df87412e798b80d0b23",
+      "url": null,
+      "domains": [
+        "api.standardnotes.com",
+        "github.com",
+        "release-assets.githubusercontent.com"
+      ],
+      "hosts": [
+        "140.82.114.3",
+        "185.199.111.133",
+        "172.66.156.195"
+      ],
+      "environment_id": 160,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "69510decbe50c6c3e703dfdf",
+      "url": null,
+      "domains": [
+        "fastly.jsdelivr.net",
+        "ghproxy.com",
+        "github.com",
+        "mirror.ghproxy.com",
+        "raw.githubusercontent.com"
+      ],
+      "hosts": [
+        "167.82.49.229",
+        "140.82.113.3",
+        "107.173.127.241",
+        "93.46.8.90",
+        "185.199.109.133"
+      ],
+      "environment_id": 140,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "69510d8de7fb51bb89089fab",
+      "url": null,
+      "domains": [
+        "fastly.jsdelivr.net",
+        "ghproxy.com",
+        "github.com",
+        "mirror.ghproxy.com",
+        "raw.githubusercontent.com"
+      ],
+      "hosts": [
+        "8.7.198.46",
+        "167.82.49.229",
+        "140.82.112.4",
+        "107.173.127.241",
+        "185.199.109.133"
+      ],
+      "environment_id": 140,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "69510b814ac6e1062207fa4f",
+      "url": null,
+      "domains": [
+        "blockhunter0007.github.io"
+      ],
+      "hosts": [
+        "185.199.108.153"
+      ],
+      "environment_id": 160,
+      "threat_score": 81,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "69510947366e5adf8e04f24a",
+      "url": null,
+      "domains": [
+        "api.github.com",
+        "fastgit.cc",
+        "fastly.jsdelivr.net"
+      ],
+      "hosts": [
+        "167.82.49.229",
+        "104.21.12.221",
+        "140.82.114.6"
+      ],
+      "environment_id": 140,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "695108799f0ff42b690d7c8c",
+      "url": "https://bajwafitnessstore.blogspot.com/",
+      "domains": [
+        "1.bp.blogspot.com",
+        "2.bp.blogspot.com",
+        "3.bp.blogspot.com",
+        "4.bp.blogspot.com",
+        "bajwafitnessstore.blogspot.com",
+        "blogger.googleusercontent.com",
+        "cdn.show-sb.com",
+        "cdn.storageimagedisplay.com",
+        "cdnjs.cloudflare.com",
+        "creative-sb1.com",
+        "flushpersist.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "lh5.googleusercontent.com",
+        "pl28345765.effectivegatecpm.com",
+        "preferencenail.com",
+        "protrafficinspector.com",
+        "skinnycrawlinglax.com",
+        "wayfarerorthodox.com",
+        "www.blogger.com",
+        "www.highperformanceformat.com"
+      ],
+      "hosts": [
+        "142.251.35.161",
+        "172.240.108.76",
+        "104.17.24.14",
+        "142.250.217.9",
+        "142.250.80.65",
+        "172.240.127.242",
+        "98.91.115.65",
+        "172.240.108.84",
+        "142.251.40.161",
+        "172.240.127.234",
+        "172.240.127.244",
+        "172.67.170.115",
+        "45.133.44.2",
+        "104.21.35.3",
+        "142.250.176.202",
+        "172.240.253.132"
+      ],
+      "environment_id": 160,
+      "threat_score": 78,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "69510805d55cd4409e0ed689",
+      "url": "https://b7510.com/",
+      "domains": [
+        "b7510.com"
+      ],
+      "hosts": [
+        "139.45.197.115"
+      ],
+      "environment_id": 160,
+      "threat_score": 45,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "695106bb5bacd3c6c8091759",
+      "url": null,
+      "domains": [
+        "api.github.com"
+      ],
+      "hosts": [
+        "140.82.113.6"
+      ],
+      "environment_id": 160,
+      "threat_score": 75,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "69510654ba5c2743650a876d",
+      "url": "https://ig.advisualagency.com/",
+      "domains": [
+        "api.vturb.com.br",
+        "backend.leadconnectorhq.com",
+        "connect.facebook.net",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "ig.advisualagency.com",
+        "player.vturb.com",
+        "static.cloudflareinsights.com",
+        "stcdn.leadconnectorhq.com",
+        "vt-h-1.b-cdn.net",
+        "www.facebook.com"
+      ],
+      "hosts": [
+        "172.64.152.166",
+        "104.18.34.38",
+        "104.16.79.73",
+        "142.250.176.202",
+        "57.144.132.128",
+        "18.210.92.134",
+        "138.199.40.58",
+        "104.21.86.249",
+        "157.240.11.35",
+        "69.192.139.213"
+      ],
+      "environment_id": 160,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695105acf63b2c61790f31b9",
+      "url": null,
+      "domains": [
+        "discord.com"
+      ],
+      "hosts": [
+        "162.159.137.232"
+      ],
+      "environment_id": 140,
+      "threat_score": 89,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "695105336550d619a804f5e5",
+      "url": "https://www.mediafire.com/file/z69morfl9xdjeo8/Clip_Studio_Paint_EX_4.0.3_%2528x64%2529_Multilingual.zip/file",
+      "domains": [
+        "a.ads.rmbl.ws",
+        "a.nel.cloudflare.com",
+        "ab.dns-finder.com",
+        "ad-delivery.net",
+        "ad.doubleclick.net",
+        "adservice.google.com",
+        "ag.gbc.criteo.com",
+        "analytics.google.com",
+        "api.amplitude.com",
+        "api.btloader.com",
+        "api.rlcdn.com",
+        "at.teads.tv",
+        "bshr.ezodn.com",
+        "btloader.com",
+        "c3.a-mo.net",
+        "carbon-cdn.ccgateway.net",
+        "cdn.amplitude.com",
+        "cdn.ampproject.org",
+        "cdn.econventa.com",
+        "cdn.id5-sync.com",
+        "cdn.jsdelivr.net",
+        "check.analytics.rlcdn.com",
+        "cmp.gatekeeperconsent.com",
+        "connect.facebook.net",
+        "connectid.analytics.yahoo.com",
+        "d-code.liadm.com",
+        "d9.flashtalking.com",
+        "dnacdn.net",
+        "econventa.com",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "esp.rtbhouse.com"
+      ],
+      "hosts": [
+        "104.17.148.83",
+        "172.67.199.186",
+        "104.21.42.32",
+        "172.66.171.133",
+        "104.16.80.73",
+        "172.67.170.144",
+        "142.250.72.110",
+        "108.139.29.53",
+        "172.67.69.81",
+        "104.20.47.80",
+        "34.36.200.111",
+        "172.217.165.134",
+        "54.85.8.229",
+        "172.67.142.121",
+        "142.251.32.99",
+        "52.10.47.241",
+        "104.26.3.173",
+        "130.211.23.194",
+        "142.251.45.162",
+        "108.139.47.87",
+        "142.250.80.10",
+        "104.20.23.13",
+        "216.239.36.181",
+        "64.233.180.154",
+        "151.101.129.229",
+        "172.66.148.159",
+        "138.199.41.120",
+        "162.19.138.118",
+        "35.171.29.255",
+        "37.19.206.164",
+        "3.212.181.164",
+        "54.234.12.96"
+      ],
+      "environment_id": 160,
+      "threat_score": 29,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "695104f13e55573756019af7",
+      "url": "https://onhaxpk.net/clip-studio-paint-4-0-crack/",
+      "domains": [
+        "1x1.a-mo.net",
+        "a.amxrtb.com",
+        "acdn.adnxs.com",
+        "ad.360yield.com",
+        "ads.betweendigital.com",
+        "ads.us.e-planning.net",
+        "ads.yieldmo.com",
+        "agent.intentiq.com",
+        "akl-navvy.media.net",
+        "ap.lijit.com",
+        "apex.go.sonobi.com",
+        "api.intentiq.com",
+        "bh.contextweb.com",
+        "c1.adform.net",
+        "c3.a-mo.net",
+        "cdn.adnxs.com",
+        "cdn.jsdelivr.net",
+        "cdn01.prnews.io",
+        "cm-x.mgid.com",
+        "cm.adform.net",
+        "cms.quantserve.com",
+        "cpm.vistarsagency.com",
+        "creativecdn.com",
+        "cs-server-s2s.yellowblue.io",
+        "cs.admanmedia.com",
+        "cs.emxdgt.com",
+        "cs.media.net",
+        "cs.yellowblue.io",
+        "csync.copper6.com",
+        "csync.loopme.me",
+        "currency.pubpowerplatform.io",
+        "d-code.liadm.com"
+      ],
+      "hosts": [
+        "172.67.151.110",
+        "142.250.176.202",
+        "142.250.80.66",
+        "172.66.173.54",
+        "172.66.172.51",
+        "142.251.35.162",
+        "192.0.73.2",
+        "172.66.41.9",
+        "142.251.45.162",
+        "142.250.81.234",
+        "13.226.94.13",
+        "167.82.49.229",
+        "104.254.150.241",
+        "74.119.118.94",
+        "8.28.7.82",
+        "54.236.129.191",
+        "34.193.171.116",
+        "35.244.159.8",
+        "52.223.22.214",
+        "108.139.47.90",
+        "13.33.252.92",
+        "72.34.249.225",
+        "69.194.240.13",
+        "34.143.74.2",
+        "23.105.12.170",
+        "131.153.52.72",
+        "34.203.175.115",
+        "52.85.31.64",
+        "3.168.122.29",
+        "162.19.138.116",
+        "35.212.59.62",
+        "72.34.249.210"
+      ],
+      "environment_id": 160,
+      "threat_score": 65,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "6951049fd603188fe707d834",
+      "url": "https://ids.kwiktrip.com/",
+      "domains": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "ids.kwiktrip.com"
+      ],
+      "hosts": [
+        "45.223.96.118",
+        "142.250.176.202"
+      ],
+      "environment_id": 160,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6951049fb74d35436b080c90",
+      "url": "https://ids.kwiktrip.com/?host=http%3A%2F%2F0177.0.0.1%2Fserver-status",
+      "domains": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "ids.kwiktrip.com"
+      ],
+      "hosts": [
+        "45.223.96.118",
+        "142.250.176.202"
+      ],
+      "environment_id": 160,
+      "threat_score": 14,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "69510461ca5e44714f0c8190",
+      "url": "https://url3150.boardsnotifications.diligent.com/2Fls/2Fclick/3Fupn/3Du001.YAiY2WpNFTFZAMsNQ0KahBAUqllNiPPrYWF11wfYQjZgf4q0WPmfq7Pfv0KSZNsOqp4-2Bbq4OPBXeneYTaVuHp8vfFHXfXmMGjEf1H2KXf4v2qOW8EbscWy2-2B0RmdkDt5yuZIBpBiP5694wnK6yYHog-3D-3D3ZM4_YVObffcZx98HbCS9uBN1aItL2HD7DXw3isdZgoHNX1OCun0JD0XacMGiK3CyJ1CVvHYRF8MG63MlE9N-2BLGFyLkUrvum5tkN-2Fw6PJDXJm7P5Z5wCFa4djEJNaJt46Js6B5fX-2Bym6SpYjsenIjCzvOO0fP8gYS2mxs01kfOXSupVHHl2KMy39Xf1Odalj9K1fFyHAvVZCpA4Nzgy-2FIdBojX1FtQjGdVmLN9TgRF7jX93pn-2B8QbLcl3cd7l3I9S3XvqT8EmaVBFYr5U9XtuSKVH5dyzCJvWprzLYZGiXyEiwECHWMBOD4rnCzUwM8vM8T7zrjSdFp7L6HVBCeGQpWHh-2BuBBjxjSy6RHh8TCZz9kTUixjbHW2FQdBi-2FADtt-2FWLDgfEfrxax48943T2woEeBN24ze-2BO-2FbYwwrKr0neZCFXbA-3D",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "tse1.mm.bing.net",
+        "url3150.boardsnotifications.diligent.com"
+      ],
+      "hosts": [
+        "99.84.234.47",
+        "142.250.80.65",
+        "20.50.73.9"
+      ],
+      "environment_id": 140,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6951045803a859b2ca03426f",
+      "url": "https://taxreminderapssinstal.jessoregovtgirlshighschool.edu.bd/?taxcord",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "gov.uk",
+        "taxreminderapssinstal.jessoregovtgirlshighschool.edu.bd",
+        "www.gov.uk"
+      ],
+      "hosts": [
+        "151.101.0.144",
+        "151.101.192.144",
+        "142.250.80.65"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6951041a2431da32e20c402c",
+      "url": "https://t.afftrackr.com/?lnwk=Ji4F3xUfOakrJ0vAO7of75BLi4KBNEbgvQJDRoz7h5U%3D&s1=28585&s2=102791323dcacd061b2220c1ad5b71",
+      "domains": [
+        "aux.fqtag.com",
+        "cdn.fqtag.com",
+        "challenges.cloudflare.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "fqtag.com",
+        "stun.2talk.com",
+        "stun.botonakis.com",
+        "stun.budgetphone.nl",
+        "stun.counterpath.com",
+        "stun.gradwell.com",
+        "stun.jumblo.com",
+        "stun.nas.net",
+        "stun.node4.co.uk",
+        "stun.veoh.com",
+        "stun.voip.aebc.com",
+        "stun.voipzoom.com",
+        "stun.voxox.com",
+        "stun.wwdl.net",
+        "t.afftrackr.com",
+        "www.cdn925.com",
+        "www.clicken.us",
+        "www.rewardsgiant-au.com"
+      ],
+      "hosts": [
+        "54.211.7.39",
+        "104.18.24.79",
+        "104.18.95.41",
+        "142.250.176.202",
+        "104.16.246.135",
+        "104.16.243.248",
+        "35.190.72.161",
+        "35.190.36.172",
+        "216.145.109.98",
+        "216.93.246.18",
+        "66.51.128.11",
+        "77.72.169.212",
+        "70.85.220.74",
+        "77.72.169.213",
+        "35.190.13.203"
+      ],
+      "environment_id": 160,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695104094c462ae7f20c70ce",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSc2EzyAFV5b8DvnPAIkbwnbmzYG3nLPLIHUUaK0aF-OGDX07A/viewform?fbclid=PAT01DUAO94LBleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaeIY3oHjKumjcfR0kv8RjyZjEYtaVisSzVMZUKGSzG5AMGoEc2Wi-aehYDv0g_aem_gncTXkSNiUqAA69zo4MO2A",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "docs.google.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "lh7-rt.googleusercontent.com",
+        "play.google.com",
+        "ssl.gstatic.com",
+        "www.gstatic.com"
+      ],
+      "hosts": [
+        "142.250.217.14",
+        "142.250.176.202",
+        "142.251.32.99",
+        "142.250.80.65",
+        "142.250.80.67"
+      ],
+      "environment_id": 140,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695103cc208e49602804ac73",
+      "url": null,
+      "domains": [
+        "chimpeon.com"
+      ],
+      "hosts": [
+        "77.68.13.69"
+      ],
+      "environment_id": 140,
+      "threat_score": 84,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "695103b6f9f46c392a0e692c",
+      "url": "http://www.uitin1770.be/",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "www.liedekerke.be",
+        "www.uitin1770.be"
+      ],
+      "hosts": [
+        "185.3.216.209",
+        "142.250.80.65",
+        "142.250.176.202"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695103b60a8c70c5ac015b03",
+      "url": "http://disclaimer.vlaamsewaterweg.be/",
+      "domains": [
+        "cdn.cookie-script.com",
+        "clients2.googleusercontent.com",
+        "disclaimer.vlaamsewaterweg.be",
+        "novation.matomo.cloud",
+        "ui.vlaanderen.be",
+        "www.vlaamsewaterweg.be"
+      ],
+      "hosts": [
+        "194.32.155.79",
+        "18.195.235.189",
+        "188.166.57.74",
+        "13.227.87.65",
+        "142.250.80.65",
+        "69.192.139.216"
+      ],
+      "environment_id": 140,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695103b4f5e61611d9007c18",
+      "url": "https://www.deltaenergie.nl/service/mijndelta/",
+      "domains": [
+        "cdn.cookielaw.org",
+        "clients2.googleusercontent.com",
+        "dev.visualwebsiteoptimizer.com",
+        "dtpfggl.pa-cd.com",
+        "geolocation.onetrust.com",
+        "tag.aticdn.net",
+        "webchat-api.digitalcx.com",
+        "webchat.digitalcx.com",
+        "widget.trustpilot.com",
+        "www.cm.com",
+        "www.deltaenergie.nl"
+      ],
+      "hosts": [
+        "212.113.64.74",
+        "34.107.218.251",
+        "104.18.87.42",
+        "104.18.32.137",
+        "108.156.91.50",
+        "18.154.110.100",
+        "108.156.92.121",
+        "104.18.32.212",
+        "142.250.80.65",
+        "104.16.239.200"
+      ],
+      "environment_id": 140,
+      "threat_score": 20,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695103b45e52c261d00adae7",
+      "url": "https://www.deltaenergie.nl/service/delta-energie-app/",
+      "domains": [
+        "cdn.cookielaw.org",
+        "clients2.googleusercontent.com",
+        "dev.visualwebsiteoptimizer.com",
+        "dtpfggl.pa-cd.com",
+        "geolocation.onetrust.com",
+        "r1eu01.visualwebsiteoptimizer.com",
+        "tag.aticdn.net",
+        "webchat-api.digitalcx.com",
+        "webchat.digitalcx.com",
+        "widget.trustpilot.com",
+        "www.cm.com",
+        "www.deltaenergie.nl"
+      ],
+      "hosts": [
+        "69.192.139.237",
+        "212.113.64.74",
+        "34.107.218.251",
+        "104.18.86.42",
+        "104.18.32.137",
+        "34.78.230.18",
+        "18.154.110.83",
+        "108.156.91.50",
+        "104.18.32.212",
+        "108.156.92.121",
+        "172.64.155.44",
+        "104.16.239.200",
+        "142.250.80.65"
+      ],
+      "environment_id": 140,
+      "threat_score": 20,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695103b3d5175367d40b8965",
+      "url": "http://www.vlaamsewaterweg.be/",
+      "domains": [
+        "cdn.cookie-script.com",
+        "chromewebstore.googleapis.com",
+        "clients2.googleusercontent.com",
+        "core.service.elfsight.com",
+        "maps.googleapis.com",
+        "maps.gstatic.com",
+        "novation.matomo.cloud",
+        "phosphor.utils.elfsightcdn.com",
+        "service-reviews-ultimate.elfsight.com",
+        "static.elfsight.com",
+        "storage.elfsight.com",
+        "ui.vlaanderen.be",
+        "widget-data.service.elfsight.com",
+        "www.vlaamsewaterweg.be"
+      ],
+      "hosts": [
+        "194.32.155.79",
+        "172.66.174.217",
+        "3.126.133.169",
+        "142.250.217.10",
+        "104.20.33.75",
+        "142.251.32.99",
+        "104.26.4.247",
+        "104.248.196.220",
+        "13.227.87.21",
+        "142.250.80.65",
+        "142.251.41.170"
+      ],
+      "environment_id": 140,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695103b2667531f0f103abf2",
+      "url": "https://reservaties.liedekerke.be/",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "reservaties.liedekerke.be"
+      ],
+      "hosts": [
+        "62.213.219.140",
+        "142.250.176.202",
+        "142.250.80.65",
+        "69.192.139.213"
+      ],
+      "environment_id": 140,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695103b1e3a2b4babe0775b0",
+      "url": "https://www.liedekerke.be/vrije-tijd",
+      "domains": [
+        "authenticatie.vlaanderen.be",
+        "clients2.googleusercontent.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "www.liedekerke.be"
+      ],
+      "hosts": [
+        "185.3.216.209",
+        "142.250.176.202",
+        "3.251.50.146",
+        "142.250.80.65",
+        "69.192.139.213",
+        "54.171.130.113"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695103b14938d86d250fdf62",
+      "url": "https://www.deltaenergie.nl/service/",
+      "domains": [
+        "cdn.cookielaw.org",
+        "chromewebstore.googleapis.com",
+        "clients2.googleusercontent.com",
+        "cloudstatic.obi4wan.com",
+        "dev.visualwebsiteoptimizer.com",
+        "dtpfggl.pa-cd.com",
+        "geolocation.onetrust.com",
+        "tag.aticdn.net",
+        "webchat-api.digitalcx.com",
+        "webchat.digitalcx.com",
+        "widget.trustpilot.com",
+        "www.cm.com",
+        "www.deltaenergie.nl"
+      ],
+      "hosts": [
+        "212.113.64.74",
+        "34.107.218.251",
+        "104.18.86.42",
+        "104.18.32.137",
+        "18.154.110.100",
+        "108.156.91.50",
+        "172.64.155.44",
+        "108.156.92.121",
+        "54.192.55.49",
+        "142.250.80.65",
+        "104.16.239.200",
+        "69.192.139.216",
+        "142.250.191.10",
+        "20.50.73.13"
+      ],
+      "environment_id": 140,
+      "threat_score": 23,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695103b0366e5adf8e04f16a",
+      "url": "http://www.liedekerke.be/",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "www.liedekerke.be"
+      ],
+      "hosts": [
+        "185.3.216.209",
+        "142.250.176.202",
+        "142.250.80.65"
+      ],
+      "environment_id": 140,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695102969a8b308a37026546",
+      "url": "https://mytools.aleno.me/%22%7D",
+      "domains": [
+        "api.hubapi.com",
+        "app.getbeamer.com",
+        "connect.facebook.net",
+        "consent.cookiebot.com",
+        "consentcdn.cookiebot.com",
+        "cta-service-cms2.hubspot.com",
+        "d18wbssj9sd0zj.cloudfront.net",
+        "imgsct.cookiebot.com",
+        "js-na1.hs-scripts.com",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "js.hs-scripts.com",
+        "js.hsadspixel.net",
+        "js.hubspot.com",
+        "js.usemessages.com",
+        "mytools.aleno.me",
+        "pagead2.googlesyndication.com",
+        "perf-na1.hsforms.com",
+        "script.hotjar.com",
+        "static.hotjar.com",
+        "track.hubspot.com",
+        "www.facebook.com"
+      ],
+      "hosts": [
+        "3.77.215.249",
+        "13.249.135.105",
+        "23.52.42.187",
+        "18.172.134.93",
+        "184.24.67.161",
+        "3.171.22.69",
+        "172.67.68.36",
+        "142.250.188.2",
+        "104.16.138.209",
+        "104.17.223.152",
+        "104.17.92.187",
+        "104.18.40.240",
+        "104.17.175.201",
+        "104.16.75.142",
+        "104.16.51.78",
+        "104.18.80.204",
+        "57.144.132.128",
+        "57.144.220.1"
+      ],
+      "environment_id": 160,
+      "threat_score": 18,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "69510231cf52eff2a800fc2c",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSc2EzyAFV5b8DvnPAIkbwnbmzYG3nLPLIHUUaK0aF-OGDX07A/viewform?fbclid=PAT01DUAO94LBleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaeIY3oHjKumjcfR0kv8RjyZjEYtaVisSzVMZUKGSzG5AMGoEc2Wi-aehYDv0g_aem_gncTXkSNiUqAA69zo4MO2A",
+      "domains": [
+        "docs.google.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "lh7-rt.googleusercontent.com",
+        "play.google.com",
+        "ssl.gstatic.com",
+        "www.gstatic.com"
+      ],
+      "hosts": [
+        "142.250.217.14",
+        "142.250.176.202",
+        "142.251.32.99",
+        "142.250.80.67",
+        "142.250.80.65"
+      ],
+      "environment_id": 160,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6951020a0a8c70c5ac015aab",
+      "url": "http://49088/",
+      "domains": [],
+      "hosts": [],
+      "environment_id": 160,
+      "threat_score": 0,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "695101a49a8b308a37026512",
+      "url": "https://ignite.lk/?f=aXAxNCZhbXA7aT0xNjk4NDk%3D",
+      "domains": [
+        "ajax.googleapis.com",
+        "browser.sentry-cdn.com",
+        "d13pxqgp3ixdbh.cloudfront.net",
+        "d2bb5k76l7oivo.cloudfront.net",
+        "d2xohqmdyl2cj3.cloudfront.net",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "ignite.lk",
+        "japaneseswordmuseumthailand.com"
+      ],
+      "hosts": [
+        "72.167.206.184",
+        "142.250.176.202",
+        "160.250.202.110",
+        "151.101.130.217",
+        "99.84.169.212",
+        "142.251.40.202",
+        "3.168.117.124",
+        "3.168.117.106",
+        "69.192.139.217"
+      ],
+      "environment_id": 160,
+      "threat_score": 84,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950ffdcd552d1bb1b023f3b",
+      "url": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=550&game_id=2410",
+      "domains": [
+        "502113197a0d53413f646bcdc97c103a.safeframe.googlesyndication.com",
+        "a.ad.gt",
+        "a.amxrtb.com",
+        "a.bids.ws",
+        "a.nel.cloudflare.com",
+        "aax-eu.amazon-adsystem.com",
+        "ad-delivery.net",
+        "ad.360yield.com",
+        "ads.betweendigital.com",
+        "ads.pubmatic.com",
+        "ads.us.e-planning.net",
+        "ads.yieldmo.com",
+        "ag.gbc.criteo.com",
+        "alb.reddit.com",
+        "ap.lijit.com",
+        "api-js.mixpanel.com",
+        "api-ssp.spot.im",
+        "api.bounceexchange.com",
+        "api.intentiq.com",
+        "api.rlcdn.com",
+        "as-sec.casalemedia.com",
+        "assets.bounceexchange.com",
+        "audienceexposure.com",
+        "avatars.nexusmods.com",
+        "b1sync.outbrain.com",
+        "b1sync.zemanta.com",
+        "bh.contextweb.com",
+        "bidder.criteo.com",
+        "bids.ws",
+        "bttrack.com",
+        "c.amazon-adsystem.com",
+        "c1.adform.net"
+      ],
+      "hosts": [
+        "172.64.145.202",
+        "104.21.27.152",
+        "104.17.25.14",
+        "138.199.40.58",
+        "142.250.176.202",
+        "151.101.1.194",
+        "108.139.47.33",
+        "151.101.129.140",
+        "192.184.68.254",
+        "13.33.252.108",
+        "130.211.5.208",
+        "104.18.42.54",
+        "151.101.1.140",
+        "99.84.160.95",
+        "3.168.122.105",
+        "34.36.213.160",
+        "104.18.41.30",
+        "172.66.148.140",
+        "54.228.177.178",
+        "172.66.161.214",
+        "104.26.0.90",
+        "104.20.22.3",
+        "34.111.170.203",
+        "34.98.72.95",
+        "13.33.61.87",
+        "34.95.69.49",
+        "52.85.31.70",
+        "52.91.215.149",
+        "143.244.213.152",
+        "104.254.148.252",
+        "3.33.220.150",
+        "172.240.45.239"
+      ],
+      "environment_id": 160,
+      "threat_score": 62,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "6950ffaebad3247b660871a1",
+      "url": "https://eggnuke.com/",
+      "domains": [
+        "csp.secureserver.net",
+        "eggnuke.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "isteam.wsimg.com"
+      ],
+      "hosts": [
+        "76.223.105.230",
+        "142.250.176.202",
+        "18.209.115.187",
+        "23.56.119.125"
+      ],
+      "environment_id": 160,
+      "threat_score": 20,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950ff3f6d34212e1f05f3a6",
+      "url": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=531&game_id=2410",
+      "domains": [
+        "a.ad.gt",
+        "a.amxrtb.com",
+        "a.bids.ws",
+        "acdn.adnxs.com",
+        "ad-delivery.net",
+        "ad.360yield.com",
+        "ad.turn.com",
+        "ade.googlesyndication.com",
+        "ads.betweendigital.com",
+        "ads.pubmatic.com",
+        "ads.stickyadstv.com",
+        "ads.us.e-planning.net",
+        "ads.yieldmo.com",
+        "ag.gbc.criteo.com",
+        "alb.reddit.com",
+        "ap.lijit.com",
+        "api-js.mixpanel.com",
+        "api-ssp.spot.im",
+        "api.bounceexchange.com",
+        "api.intentiq.com",
+        "api.rlcdn.com",
+        "as-sec.casalemedia.com",
+        "assets.bounceexchange.com",
+        "audienceexposure.com",
+        "avatars.nexusmods.com",
+        "b1sync.outbrain.com",
+        "b1sync.zemanta.com",
+        "bh.contextweb.com",
+        "bidder.criteo.com",
+        "bids.ws",
+        "c.amazon-adsystem.com",
+        "c1.adform.net"
+      ],
+      "hosts": [
+        "104.18.42.54",
+        "104.21.27.152",
+        "104.17.24.14",
+        "142.250.176.202",
+        "79.127.243.187",
+        "142.250.191.3",
+        "151.101.1.194",
+        "108.139.47.108",
+        "151.101.129.140",
+        "13.33.252.108",
+        "35.186.235.23",
+        "192.184.68.254",
+        "172.64.146.226",
+        "34.36.213.160",
+        "54.228.177.178",
+        "151.101.1.140",
+        "173.223.2.90",
+        "3.168.122.105",
+        "99.84.160.26",
+        "172.67.69.191",
+        "172.66.148.140",
+        "104.20.22.154",
+        "172.66.170.220",
+        "34.95.69.49",
+        "3.169.246.89",
+        "34.111.170.203",
+        "34.98.72.95",
+        "52.91.215.149",
+        "104.20.22.3",
+        "52.85.31.64",
+        "35.71.131.137",
+        "13.33.67.3"
+      ],
+      "environment_id": 160,
+      "threat_score": 62,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "6950fc046932c7598304900c",
+      "url": "https://araskargo.mobilservisi-4.com/alisveris-463/ilan&araskargo-get&11122025122651-7446",
+      "domains": [
+        "a.nel.cloudflare.com",
+        "araskargo.mobilservisi-4.com",
+        "challenges.cloudflare.com",
+        "static.cloudflareinsights.com"
+      ],
+      "hosts": [
+        "104.21.73.218",
+        "35.190.80.1",
+        "104.16.79.73",
+        "104.18.95.41",
+        "23.45.123.12"
+      ],
+      "environment_id": 160,
+      "threat_score": 35,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "6950fb47f5e61611d9007ae0",
+      "url": "https://www.kwikrewards.com/",
+      "domains": [
+        "analytics.twitter.com",
+        "app.trustev.com",
+        "cdn.evgnet.com",
+        "connect.facebook.net",
+        "d.la3-core1.sfdc-yfeipo.salesforceliveagent.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "kwiktripinc.us-7.evergage.com",
+        "mpsnare.iesnare.com",
+        "service.force.com",
+        "static.ads-twitter.com",
+        "t.co",
+        "use.typekit.net",
+        "www.facebook.com",
+        "www.google.com",
+        "www.kwikrewards.com"
+      ],
+      "hosts": [
+        "45.223.96.118",
+        "142.250.176.202",
+        "142.250.190.227",
+        "184.30.148.81",
+        "136.146.16.5",
+        "142.250.188.4",
+        "151.101.192.114",
+        "146.75.92.157",
+        "57.144.132.128",
+        "172.83.73.254",
+        "35.163.237.4",
+        "162.159.140.229",
+        "172.66.0.227",
+        "23.21.145.8",
+        "57.144.202.1",
+        "155.226.144.128",
+        "44.236.192.253"
+      ],
+      "environment_id": 160,
+      "threat_score": 18,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950fa15acb7d7d3c0047aa5",
+      "url": "https://rosleprtios.com/vb5b1h09/index.php",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "rosleprtios.com",
+        "trkucibqy.com"
+      ],
+      "hosts": [
+        "165.227.26.65",
+        "3.167.183.108",
+        "142.250.80.65"
+      ],
+      "environment_id": 140,
+      "threat_score": 70,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950f944985dbe86fb06107f",
+      "url": "https://csrvc3hs.r.ca-central-1.awstrack.me/L0/https://york.hua.hrsmart.com/hr/ats/Onboarding/tasks/1/010d019b63c0a78d-41979432-2f35-42f9-84d2-089ede528784-000000/jD98b7rSLtFjgaN3abtlQLx52l4=243",
+      "domains": [
+        "csrvc3hs.r.ca-central-1.awstrack.me",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "i.ibb.co",
+        "york.hua.hrsmart.com"
+      ],
+      "hosts": [
+        "99.79.1.121",
+        "15.157.231.157",
+        "142.250.176.202",
+        "142.250.190.227",
+        "207.174.26.219"
+      ],
+      "environment_id": 160,
+      "threat_score": 14,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950f7db9cddb3e8c1063fc6",
+      "url": null,
+      "domains": [
+        "browser.360.cn",
+        "dd.browser.360.cn",
+        "puv.tt.browser.360.cn",
+        "s.f.360.cn",
+        "seapp.stat.360safe.com",
+        "seupdate.360safe.com"
+      ],
+      "hosts": [
+        "157.185.179.197",
+        "101.198.2.228",
+        "1.192.137.12",
+        "101.198.2.155",
+        "39.156.85.201"
+      ],
+      "environment_id": 160,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950f7764daa765fe401cca4",
+      "url": "https://celestia.z.superdupercdn.com/",
+      "domains": [
+        "celestia.z.superdupercdn.com",
+        "clients2.googleusercontent.com"
+      ],
+      "hosts": [
+        "176.58.41.99",
+        "142.250.80.65",
+        "69.192.139.216"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950f771c083870f290f6922",
+      "url": "https://matrix.z.superdupercdn.com/",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "matrix.z.superdupercdn.com"
+      ],
+      "hosts": [
+        "176.58.50.131",
+        "142.250.80.65",
+        "69.192.139.224"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950f771000abe85f407e136",
+      "url": "https://glory.z.superdupercdn.com/",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "glory.z.superdupercdn.com"
+      ],
+      "hosts": [
+        "176.58.38.115",
+        "142.250.80.65",
+        "69.192.139.213"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950f76b7c7ed9da920b9fec",
+      "url": "https://bingo.z.superdupercdn.com/",
+      "domains": [
+        "bingo.z.superdupercdn.com",
+        "clients2.googleusercontent.com"
+      ],
+      "hosts": [
+        "176.58.50.107",
+        "142.250.80.65"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950f76b1974b42ee203115e",
+      "url": "https://nika.z.superdupercdn.com/",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "nika.z.superdupercdn.com"
+      ],
+      "hosts": [
+        "176.58.42.43",
+        "142.250.80.65",
+        "69.192.139.216"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950f5ab6b0fd2b02e0c71c3",
+      "url": null,
+      "domains": [
+        "a.nel.cloudflare.com",
+        "api.newlauncher.ru",
+        "bmclapi2.bangbang93.com",
+        "github.com",
+        "mc-mirror-1.newlauncher.ru",
+        "mc-mirror-1.newlightclient.xyz",
+        "mc-mirror-2.newlauncher.ru",
+        "mc-mirror-2.newlightclient.xyz",
+        "mirror1.newlauncher.ru",
+        "mirror2.newlauncher.ru",
+        "mirror3.newlauncher.ru",
+        "newlauncher.github.io",
+        "nl-api-1.newlightclient.xyz",
+        "nl-api-2.newlightclient.xyz",
+        "o4508460617957376.ingest.de.sentry.io"
+      ],
+      "hosts": [
+        "155.117.85.138",
+        "104.21.71.108",
+        "109.61.110.138",
+        "140.82.114.3",
+        "185.199.108.153",
+        "34.120.62.213",
+        "35.190.80.1",
+        "172.67.144.122"
+      ],
+      "environment_id": 140,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950f512d603188fe707d5e9",
+      "url": "https://www5.kwikrewards.com/api/v4/users/26",
+      "domains": [
+        "analytics.twitter.com",
+        "app.trustev.com",
+        "cdn.evgnet.com",
+        "connect.facebook.net",
+        "d.la3-core1.sfdc-yfeipo.salesforceliveagent.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "kwiktripinc.us-7.evergage.com",
+        "mpsnare.iesnare.com",
+        "service.force.com",
+        "static.ads-twitter.com",
+        "t.co",
+        "www.facebook.com",
+        "www.google.com",
+        "www5.kwikrewards.com"
+      ],
+      "hosts": [
+        "45.223.96.118",
+        "142.250.176.202",
+        "136.146.41.2",
+        "142.250.188.4",
+        "146.75.92.157",
+        "57.144.132.128",
+        "151.101.192.114",
+        "151.101.194.146",
+        "172.66.0.227",
+        "172.83.73.254",
+        "52.6.11.66",
+        "157.240.11.35",
+        "155.226.144.128",
+        "44.236.192.253"
+      ],
+      "environment_id": 160,
+      "threat_score": 18,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950f4e04b4d3db4db05624f",
+      "url": null,
+      "domains": [
+        "fre.kievteplo.in.ua",
+        "fre.passadisco.com.br",
+        "steamcommunity.com",
+        "telegram.me"
+      ],
+      "hosts": [
+        "149.154.167.99",
+        "172.67.192.197",
+        "184.30.89.225",
+        "172.67.146.125"
+      ],
+      "environment_id": 160,
+      "threat_score": 85,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950f33e8720781c6f052599",
+      "url": null,
+      "domains": [
+        "yandi9988.com"
+      ],
+      "hosts": [
+        "95.40.120.43"
+      ],
+      "environment_id": 160,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950f2f9058714bdc90d2104",
+      "url": "https://etif-sa.com/registration",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "etif-sa.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "hosts": [
+        "188.117.84.69",
+        "172.253.115.95",
+        "142.251.16.94",
+        "172.253.62.132"
+      ],
+      "environment_id": 140,
+      "threat_score": 20,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950f20f891faba53d01ffd9",
+      "url": "https://justpaste.it/redirect/bizbz/https:/videq.wtf/d/g38bn5c35a74",
+      "domains": [
+        "justpaste.it"
+      ],
+      "hosts": [
+        "83.168.108.45"
+      ],
+      "environment_id": 160,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950f15d0f1e424026087818",
+      "url": null,
+      "domains": [
+        "talonvoice.com"
+      ],
+      "hosts": [
+        "154.3.129.242"
+      ],
+      "environment_id": 120,
+      "threat_score": 75,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "6950f159bcc0a26dda0afbf1",
+      "url": "http://nathanruffing.com/",
+      "domains": [
+        "apresolve.spotify.com",
+        "gue1-spclient.spotify.com",
+        "image-cdn-ak.spotifycdn.com",
+        "nathanruffing.com",
+        "o22381.ingest.us.sentry.io",
+        "open.spotify.com",
+        "static.addtoany.com"
+      ],
+      "hosts": [
+        "142.11.212.136",
+        "104.20.20.192",
+        "151.101.3.42",
+        "23.53.11.41",
+        "34.120.195.249",
+        "35.186.224.24",
+        "35.186.224.9",
+        "69.192.139.214"
+      ],
+      "environment_id": 160,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950eec76c98f7bef60ccaa7",
+      "url": "https://vobivobi.com/?e=dA-2FT3f5IGG9mQ9b-2BzSnW4g-3D-3D&sub1=44186&sub2=52784806&clickid=101766911501103956%7C245758%7C1863%7CJPzm3%7C1%7C14%7C%7Ch1&region_id=14&tst=BE_TrPBDmS1IHOYTeQA3",
+      "domains": [
+        "static.cloudflareinsights.com",
+        "vobivobi.com"
+      ],
+      "hosts": [
+        "104.21.27.231",
+        "104.16.79.73",
+        "23.44.201.14"
+      ],
+      "environment_id": 160,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950ee8348e270d6f70a4a32",
+      "url": "https://ulvis.net/02GY",
+      "domains": [
+        "a.nel.cloudflare.com",
+        "analytics.google.com",
+        "cabinet.tax.gov.ua",
+        "challenges.cloudflare.com",
+        "fonts.gstatic.com",
+        "static.cloudflareinsights.com",
+        "stats.g.doubleclick.net",
+        "ulvis.net",
+        "www.google.com",
+        "www.gstatic.com"
+      ],
+      "hosts": [
+        "172.67.149.239",
+        "35.190.80.1",
+        "104.16.79.73",
+        "104.18.94.41",
+        "193.200.32.30",
+        "142.250.188.4",
+        "142.251.32.99",
+        "64.233.180.156",
+        "142.250.80.110"
+      ],
+      "environment_id": 160,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950ee1b64750ccac00fee39",
+      "url": null,
+      "domains": [
+        "aidesolation.games",
+        "clients2.googleusercontent.com"
+      ],
+      "hosts": [
+        "172.67.183.2",
+        "142.250.80.65"
+      ],
+      "environment_id": 140,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950ec0516b579351203a84b",
+      "url": null,
+      "domains": [
+        "c.zeltitmp.net",
+        "ipinfo.io",
+        "zeltitmp.net"
+      ],
+      "hosts": [
+        "34.117.59.81",
+        "141.136.39.211"
+      ],
+      "environment_id": 160,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950eb101974b42ee2030fc9",
+      "url": "https://54327455.shop/d4Bwxp4X/",
+      "domains": [
+        "54327455.shop",
+        "a.nel.cloudflare.com",
+        "challenges.cloudflare.com",
+        "static.cloudflareinsights.com"
+      ],
+      "hosts": [
+        "172.67.181.60",
+        "35.190.80.1",
+        "104.16.80.73",
+        "104.18.95.41",
+        "69.192.139.219",
+        "23.62.46.17"
+      ],
+      "environment_id": 160,
+      "threat_score": 95,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950ea779933d50722036dd5",
+      "url": "http://zagent2654.yg5sjx5kzy.com/",
+      "domains": [
+        "zagent2654.yg5sjx5kzy.com"
+      ],
+      "hosts": [
+        "143.198.28.40",
+        "23.43.85.18"
+      ],
+      "environment_id": 160,
+      "threat_score": 65,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950e82034e2151954047ceb",
+      "url": null,
+      "domains": [
+        "api.snapcraft.io",
+        "canonical-bos01.cdn.snapcraftcontent.com"
+      ],
+      "hosts": [],
+      "environment_id": 310,
+      "threat_score": 45,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950e86c193d0c991803e859",
+      "url": "https://protect.checkpoint.com/v2/r02/___https:/bnaao-my.sharepoint.com/personal/elucas_bna_ao/_layouts/15/onedrive.aspx?view=37___.YzJlOmJhbmNvbmFjaW9uYWxkZWFuZ29sYTpjOm86ZjEyNDU3YmM5N2IzNDU2Y2MwYTYwZTc3NzU4MzM5ZDU6NzoxZTI0OmUzNTk3MmM0MTA2N2M1OWYzMmYwY2JjZWM1NmFjZjhkMzhhNDNhOTI1ZDYzMTkyZDIzOGU4OGU2NGI3MDMyN2E6aDpUOk4",
+      "domains": [
+        "aadcdn.msauth.net",
+        "aadcdn.msftauth.net",
+        "bnaao-my.sharepoint.com",
+        "identity.nel.measure.office.net",
+        "login.microsoftonline.com",
+        "protect.checkpoint.com"
+      ],
+      "hosts": [
+        "3.168.102.95",
+        "96.16.55.149",
+        "69.192.139.231"
+      ],
+      "environment_id": 160,
+      "threat_score": 19,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950e846c083870f290f6759",
+      "url": null,
+      "domains": [
+        "api.telegram.org"
+      ],
+      "hosts": [
+        "149.154.167.220"
+      ],
+      "environment_id": 160,
+      "threat_score": 87,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950e6ed00b71a229902b5bc",
+      "url": null,
+      "domains": [
+        "api.snapcraft.io"
+      ],
+      "hosts": [],
+      "environment_id": 310,
+      "threat_score": 17,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950e6cd7dbd5424bf03ed75",
+      "url": "https://jplus.jainam.in/refer/04Mqn9gF8BYP",
+      "domains": [
+        "accounts.google.com",
+        "analytics.google.com",
+        "analytics.twitter.com",
+        "api.ipify.org",
+        "c.in.webengage.com",
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "config-cdn.hyperverge.co",
+        "connect.facebook.net",
+        "dq4nytsa795t1.cloudfront.net",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "hv-camera-web-sg.s3-ap-southeast-1.amazonaws.com",
+        "hv-web-sdk-cdn.hyperverge.co",
+        "inzz134106294.in.webengage.co",
+        "jplus.jainam.in",
+        "jsonip.com",
+        "signup.jainam.in",
+        "static.ads-twitter.com",
+        "stats.g.doubleclick.net",
+        "t.co",
+        "widgets.in.webengage.com",
+        "wsdk-files.in.webengage.com",
+        "www.clarity.ms",
+        "www.cloudflare.com",
+        "www.facebook.com",
+        "www.google.com",
+        "www.gstatic.com",
+        "y.clarity.ms",
+        "z.in.webengage.co"
+      ],
+      "hosts": [
+        "103.160.36.144",
+        "142.250.188.4",
+        "146.75.92.157",
+        "216.239.38.181",
+        "162.159.140.229",
+        "172.66.0.227",
+        "142.251.40.130",
+        "64.233.180.157",
+        "103.160.36.142",
+        "31.13.70.36",
+        "3.5.149.152",
+        "4.153.187.221",
+        "57.144.132.128",
+        "142.251.185.84",
+        "34.160.111.145",
+        "104.26.12.205",
+        "104.17.24.14",
+        "99.84.160.33",
+        "104.16.124.96",
+        "142.250.176.202",
+        "167.82.49.229",
+        "142.251.32.99",
+        "3.171.117.117",
+        "99.84.234.34",
+        "172.171.87.38",
+        "3.168.122.108",
+        "18.164.116.105",
+        "108.139.47.40",
+        "3.171.117.87",
+        "69.192.139.236"
+      ],
+      "environment_id": 160,
+      "threat_score": 31,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "6950e558493f2cfd1505aea6",
+      "url": "https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Fportal.azure.com%2F%23%40242650f3-f08a-4826-bb52-00a1a008d00c%2Fblade%2FMicrosoft_Azure_CostManagement%2FBudgetDetailBlade%2FbudgetId%2Fproviders%252FMicrosoft.Billing%252FbillingAccounts%252F29e810d2-a10b-539a-04d2-69a6024c1290%253Ac7fbc969-dbe9-470e-ad51-903ae84a4636_2019-05-31%252Fcustomers%252F9a73bf54-3f84-44d4-91c8-8ffa364cfc3d%252Fproviders%252FMicrosoft.CostManagement%252Fbudgets%252FBOS-Azure-Budget-Alert&p=bT1mOTFhNzFiOS04YTNjLTQ2MDItOTI2Ni01YzVmYjA4NDA0ZDgmdT1hZW8mbD1wb3J0YWwuYXp1cmUuY29t",
+      "domains": [
+        "aadcdn.msauth.net",
+        "aadcdn.msftauth.net",
+        "login.microsoftonline.com",
+        "nam.safelink.emails.azure.net",
+        "portal.azure.com"
+      ],
+      "hosts": [
+        "150.171.84.21",
+        "23.45.123.37"
+      ],
+      "environment_id": 160,
+      "threat_score": 24,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950e346e860bd9d540247fe",
+      "url": null,
+      "domains": [
+        "yandi9988.com"
+      ],
+      "hosts": [
+        "95.40.120.43"
+      ],
+      "environment_id": 140,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950e34410f9e71c7102c76b",
+      "url": "https://androidrepublica.website/",
+      "domains": [
+        "a.nel.cloudflare.com",
+        "androidrepublica.website",
+        "api.github.com",
+        "avatars.githubusercontent.com",
+        "collector.github.com",
+        "github.com",
+        "github.githubassets.com",
+        "raw.githubusercontent.com",
+        "static.cloudflareinsights.com",
+        "user-images.githubusercontent.com"
+      ],
+      "hosts": [
+        "172.67.187.67",
+        "104.16.79.73",
+        "140.82.114.4",
+        "35.190.80.1",
+        "185.199.108.154",
+        "185.199.109.133",
+        "185.199.108.133",
+        "140.82.113.21",
+        "140.82.112.6"
+      ],
+      "environment_id": 160,
+      "threat_score": 75,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950e30f4f0fbb27a9079206",
+      "url": "https://tornado.z.superdupercdn.com/",
+      "domains": [
+        "chromewebstore.googleapis.com",
+        "clients2.googleusercontent.com",
+        "tornado.z.superdupercdn.com"
+      ],
+      "hosts": [
+        "176.58.38.67",
+        "142.250.80.65",
+        "142.250.81.234",
+        "23.62.46.9"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950e2df1d24b8d1cb0443ca",
+      "url": "https://juventino.mcnoc.mx/",
+      "domains": [
+        "d2i2wahzwrm1n5.cloudfront.net",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "juventino.mcnoc.mx"
+      ],
+      "hosts": [
+        "200.106.173.85",
+        "13.32.205.115",
+        "142.250.176.202",
+        "142.250.190.227"
+      ],
+      "environment_id": 160,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950e01e6850485e950f177a",
+      "url": "https://www.suntechengs.com/",
+      "domains": [
+        "cdn.jsdelivr.net",
+        "code.jquery.com",
+        "fonts.gstatic.com",
+        "maps-sdk.trimblemaps.com",
+        "suntechengs.com",
+        "translate-pa.googleapis.com",
+        "translate.google.com",
+        "translate.googleapis.com",
+        "www.amcharts.com",
+        "www.google.com",
+        "www.gstatic.com",
+        "www.suntechengs.com"
+      ],
+      "hosts": [
+        "72.61.174.251",
+        "167.82.49.229",
+        "3.167.163.27",
+        "151.101.194.137",
+        "104.26.6.186",
+        "142.250.72.110",
+        "142.251.32.99",
+        "142.250.80.106",
+        "142.250.190.227",
+        "142.250.188.4",
+        "69.192.139.237"
+      ],
+      "environment_id": 160,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950df81193d0c991803e522",
+      "url": "https://tinyurl.com/preview/Carrefour-2371",
+      "domains": [
+        "4dbf76c87eb3e5bebbc230f416c58a30.safeframe.googlesyndication.com",
+        "a.ad.gt",
+        "a.pub.network",
+        "ab.dns-finder.com",
+        "acdn.adnxs.com",
+        "ad-delivery.net",
+        "ad.360yield.com",
+        "ad.doubleclick.net",
+        "ads.pubmatic.com",
+        "ads.yieldmo.com",
+        "ag.gbc.criteo.com",
+        "ap.lijit.com",
+        "api.btloader.com",
+        "api.floors.dev",
+        "api.rlcdn.com",
+        "assets.rapidedge.io",
+        "bh.contextweb.com",
+        "btloader.com",
+        "btlr.sharethrough.com",
+        "c.pub.network",
+        "cdn.ampproject.org",
+        "cdn.browsiprod.com",
+        "cdn.hadronid.net",
+        "cdn.jsdelivr.net",
+        "cdn.undertone.com",
+        "ce.lijit.com",
+        "cm.g.doubleclick.net",
+        "cs.ingage.tech",
+        "d.pub.network",
+        "d.turn.com",
+        "demand-engine.browsiprod.com",
+        "dis.criteo.com"
+      ],
+      "hosts": [
+        "104.18.111.161",
+        "104.18.21.206",
+        "167.82.49.229",
+        "142.250.176.202",
+        "34.111.152.239",
+        "34.160.128.112",
+        "34.160.152.31",
+        "52.250.30.213",
+        "142.250.190.227",
+        "104.16.80.73",
+        "142.251.45.162",
+        "142.250.80.34",
+        "35.244.192.210",
+        "34.54.78.238",
+        "13.32.164.87",
+        "142.250.72.110",
+        "74.119.118.100",
+        "57.129.85.132",
+        "69.147.88.7",
+        "104.20.35.150",
+        "172.66.162.254",
+        "104.20.22.97",
+        "34.217.182.197",
+        "52.200.159.203",
+        "35.71.131.137",
+        "104.20.20.189",
+        "34.107.165.188",
+        "44.240.95.97",
+        "34.107.140.113",
+        "104.254.148.251",
+        "34.36.209.34",
+        "18.160.200.99"
+      ],
+      "environment_id": 160,
+      "threat_score": 62,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "6950de5d15fabc2c980fca2e",
+      "url": "https://storage.googleapis.com/mastfox/masterxifo.html#4ReDDK70668RzPb225lkrjumiqbg18612ZKQZHBWZWMACGPW176833SFSD35903O26",
+      "domains": [
+        "0peno1.store",
+        "storage.googleapis.com",
+        "www.eartrissin.com"
+      ],
+      "hosts": [
+        "142.251.45.187",
+        "172.81.131.79",
+        "45.15.21.64",
+        "23.44.201.24"
+      ],
+      "environment_id": 160,
+      "threat_score": 93,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950ddb90ec530c0f900de7a",
+      "url": "https://www.tiktok.com/ttwid/check",
+      "domains": [
+        "lf16-tiktok-common.ibytedtos.com",
+        "mcs.tiktokw.us",
+        "mon16-normal-useast5.tiktokv.us",
+        "p16-ttark.tiktokcdn-us.com",
+        "p16-ttug-sg.tiktokcdn.com",
+        "sf16-website-login.neutral.ttwstatic.com",
+        "starling.tiktokv.us",
+        "storage.googleapis.com",
+        "www.tiktok.com"
+      ],
+      "hosts": [
+        "142.251.32.123",
+        "23.44.229.215",
+        "96.16.55.139",
+        "23.54.127.144",
+        "23.33.22.89",
+        "23.33.22.70",
+        "23.54.127.152",
+        "23.38.109.71"
+      ],
+      "environment_id": 160,
+      "threat_score": 50,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "6950dcf4c1a023f63f053d94",
+      "url": "https://www.evacol.com/checkout/#shipping",
+      "domains": [
+        "analytics.google.com",
+        "cdnjs.cloudflare.com",
+        "clients2.googleusercontent.com",
+        "code.iconify.design",
+        "connect.facebook.net",
+        "ct.pinterest.com",
+        "firestore.googleapis.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "ga.getresponse.com",
+        "googleads.g.doubleclick.net",
+        "identitytoolkit.googleapis.com",
+        "livechat-metrics.messagebird.com",
+        "livechat.messagebird.com",
+        "media.messagebird.com",
+        "messaging.messagebird.com",
+        "metrics.hotjar.io",
+        "o113111.ingest.sentry.io",
+        "ocw.messagebird.com",
+        "phppackageeuro.com",
+        "s.pinimg.com",
+        "script.hotjar.com",
+        "static.hotjar.com",
+        "stats.g.doubleclick.net",
+        "unpkg.com",
+        "vc.hotjar.io",
+        "www.evacol.com",
+        "www.facebook.com",
+        "www.google.com"
+      ],
+      "hosts": [
+        "3.20.138.246",
+        "104.18.0.22",
+        "172.67.71.159",
+        "142.250.176.202",
+        "142.250.190.227",
+        "104.160.64.8",
+        "38.180.193.241",
+        "142.250.80.110",
+        "57.144.132.128",
+        "142.250.188.2",
+        "151.101.192.84",
+        "18.172.134.107",
+        "64.233.180.156",
+        "57.144.220.1",
+        "142.250.188.4",
+        "3.171.22.32",
+        "13.249.141.16",
+        "151.101.128.84",
+        "199.36.158.100",
+        "34.149.152.167",
+        "35.204.196.43",
+        "35.195.139.227",
+        "104.17.25.14",
+        "142.250.64.74",
+        "142.250.80.42",
+        "34.120.195.249",
+        "34.251.178.151",
+        "142.250.80.65",
+        "69.192.139.215"
+      ],
+      "environment_id": 140,
+      "threat_score": 100,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950d7867f5ed8f034077c10",
+      "url": null,
+      "domains": [
+        "documentation.beamng.com",
+        "go.beamng.com",
+        "piwik.beamng.com"
+      ],
+      "hosts": [
+        "116.202.226.165",
+        "88.99.209.176"
+      ],
+      "environment_id": 160,
+      "threat_score": 81,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950d628c62c3889140c971d",
+      "url": null,
+      "domains": [
+        "ccsca2021.ocsp-certum.com"
+      ],
+      "hosts": [
+        "23.45.123.21"
+      ],
+      "environment_id": 160,
+      "threat_score": 85,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950d5679c9541d65e054477",
+      "url": "https://nipots.cc/u",
+      "domains": [
+        "14760386.fls.doubleclick.net",
+        "aa.agkn.com",
+        "ad.360yield.com",
+        "ad.doubleclick.net",
+        "ad.tpmn.co.kr",
+        "ad.tpmn.io",
+        "ade.clmbtech.com",
+        "ads01.groovinads.com",
+        "adservice.google.com",
+        "ag.gbc.criteo.com",
+        "analytics.google.com",
+        "api.rudderstack.com",
+        "app.securiti.ai",
+        "assets.api.useinsider.com",
+        "carrier.useinsider.com",
+        "cdn-prod.securiti.ai",
+        "cdn.rudderlabs.com",
+        "client-side-metrics.us5.us.criteo.net",
+        "cm.g.doubleclick.net",
+        "cm.mgid.com",
+        "connect.facebook.net",
+        "contextual.media.net",
+        "criteo-partners.tremorhub.com",
+        "criteo-sync.teads.tv",
+        "crt.rootg2.amazontrust.com",
+        "d.turn.com",
+        "dev.visualwebsiteoptimizer.com",
+        "dis.criteo.com",
+        "dnacdn.net",
+        "dpm.demdex.net",
+        "dynamic.criteo.com",
+        "eb2.3lift.com"
+      ],
+      "hosts": [
+        "43.134.9.187",
+        "104.18.24.219",
+        "34.107.218.251",
+        "192.99.232.220",
+        "3.168.73.95",
+        "13.33.252.127",
+        "18.164.116.13",
+        "15.197.226.17",
+        "99.84.160.60",
+        "18.238.80.38",
+        "142.250.188.4",
+        "57.144.132.128",
+        "18.238.55.54",
+        "162.159.133.61",
+        "74.119.117.6",
+        "104.18.28.189",
+        "99.84.234.61",
+        "142.250.80.110",
+        "64.233.180.155",
+        "142.250.191.6",
+        "172.217.165.134",
+        "162.159.134.61",
+        "74.119.117.62",
+        "3.171.117.93",
+        "142.251.45.162",
+        "104.17.201.65",
+        "141.226.224.48",
+        "172.98.26.246",
+        "157.240.11.35",
+        "34.194.111.92",
+        "142.250.80.34",
+        "199.204.168.133"
+      ],
+      "environment_id": 160,
+      "threat_score": 72,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950d4f4e48d38296c0b6c6a",
+      "url": "https://indevice.com.ua/",
+      "domains": [
+        "cc.cloudad.icu",
+        "cc.givemelink.cc",
+        "cc.linksare.top",
+        "clients2.googleusercontent.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "gotcha-server.evo.run",
+        "images.prom.ua",
+        "images.ua.prom.st",
+        "indevice.com.ua",
+        "my.prom.ua",
+        "t.trafmag.com",
+        "tracker.prom.ua"
+      ],
+      "hosts": [
+        "193.34.169.17",
+        "193.34.169.2",
+        "193.34.169.16",
+        "142.250.176.202",
+        "193.200.65.5",
+        "142.250.80.65",
+        "193.34.168.232",
+        "23.47.72.8",
+        "69.192.139.216",
+        "51.105.71.137"
+      ],
+      "environment_id": 140,
+      "threat_score": 90,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950d3ab06da1eb44502857e",
+      "url": "https://relax.z.superdupercdn.com/",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "relax.z.superdupercdn.com"
+      ],
+      "hosts": [
+        "176.58.38.203",
+        "142.250.80.65",
+        "69.192.139.229"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950d398261ecfab080ec3d0",
+      "url": "http://45.77.63.243/",
+      "domains": [],
+      "hosts": [
+        "45.77.63.243"
+      ],
+      "environment_id": 160,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950d3284e4b725e2e0cea46",
+      "url": "http://95.179.215.161/",
+      "domains": [],
+      "hosts": [
+        "95.179.215.161"
+      ],
+      "environment_id": 160,
+      "threat_score": 18,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950d2ec6f6909fbae069145",
+      "url": null,
+      "domains": [
+        "cdn.jsdelivr.net"
+      ],
+      "hosts": [
+        "167.82.49.229"
+      ],
+      "environment_id": 160,
+      "threat_score": 20,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "6950d1a716a20ff0960af1f1",
+      "url": "https://gtm.deepl.com/",
+      "domains": [
+        "gtm.deepl.com"
+      ],
+      "hosts": [
+        "194.124.204.71"
+      ],
+      "environment_id": 160,
+      "threat_score": 0,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950cfc512307bd77b066ca0",
+      "url": "https://athens.z.superdupercdn.com/",
+      "domains": [
+        "athens.z.superdupercdn.com",
+        "clients2.googleusercontent.com"
+      ],
+      "hosts": [
+        "176.58.50.219",
+        "142.250.80.65"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950cfb487df0e95800ced30",
+      "url": "https://sierra.z.superdupercdn.com/",
+      "domains": [
+        "clients2.googleusercontent.com",
+        "sierra.z.superdupercdn.com"
+      ],
+      "hosts": [
+        "176.58.38.99",
+        "142.250.80.65"
+      ],
+      "environment_id": 140,
+      "threat_score": 15,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950cf9ec62c3889140c9658",
+      "url": "https://vlink.cc/hortaewtakhakeleehoo",
+      "domains": [
+        "apihk2.vlink.cc",
+        "gc.pointersoft.cn",
+        "hm.baidu.com",
+        "oss-vlink.linklink.to",
+        "res.wx.qq.com",
+        "static.cloudflareinsights.com",
+        "vlink.cc"
+      ],
+      "hosts": [
+        "172.67.208.79",
+        "104.16.79.73",
+        "43.159.79.166",
+        "111.206.209.249",
+        "154.44.26.7",
+        "222.186.60.115"
+      ],
+      "environment_id": 160,
+      "threat_score": 92,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950cda3947bd7a6ce00c3b1",
+      "url": "https://leadgainz.com/",
+      "domains": [
+        "chromewebstore.googleapis.com",
+        "clients2.googleusercontent.com",
+        "leadgainz.com"
+      ],
+      "hosts": [
+        "57.128.140.49",
+        "142.250.80.65",
+        "142.250.64.74"
+      ],
+      "environment_id": 140,
+      "threat_score": 70,
+      "threat_level_human": "malicious"
+    },
+    {
+      "job_id": "6950cb8001a84522f504fb4e",
+      "url": "https://ninjafight.rf.gd/",
+      "domains": [
+        "a.nel.cloudflare.com",
+        "api.ipify.org",
+        "clients2.googleusercontent.com",
+        "drive.google.com",
+        "drive.usercontent.google.com",
+        "errors.infinityfree.net",
+        "files.catbox.moe",
+        "ninjafight.rf.gd"
+      ],
+      "hosts": [
+        "185.27.134.124",
+        "108.181.20.35",
+        "104.26.9.174",
+        "35.190.80.1",
+        "142.250.80.65",
+        "142.251.41.174",
+        "104.26.13.205"
+      ],
+      "environment_id": 140,
+      "threat_score": 36,
+      "threat_level_human": "suspicious"
+    },
+    {
+      "job_id": "6950cb1328c087ef3f003231",
+      "url": "https://muteluv-hello-is-this-luck-ep3.readme.io/",
+      "domains": [
+        "cdn.readme.io",
+        "files.readme.io",
+        "js.stripe.com",
+        "m.stripe.com",
+        "m.stripe.network",
+        "muteluv-hello-is-this-luck-ep3.readme.io"
+      ],
+      "hosts": [
+        "104.16.241.118",
+        "104.18.168.110",
+        "104.16.242.118",
+        "151.101.128.176",
+        "44.239.165.130"
+      ],
+      "environment_id": 160,
+      "threat_score": 5,
+      "threat_level_human": "no specific threat"
+    },
+    {
+      "job_id": "6950c7912d3329be40080456",
+      "url": null,
+      "domains": [
+        "clients2.googleusercontent.com"
+      ],
+      "hosts": [
+        "142.250.80.65",
+        "69.192.139.236",
+        "104.46.162.227"
+      ],
+      "environment_id": 140,
+      "threat_score": 7,
+      "threat_level_human": "no specific threat"
+    }
+  ]
+}
