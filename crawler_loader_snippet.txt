@@ -1,0 +1,17 @@
+# Snippet: load sandbox_urls.json and iterate entries
+# Place this where your crawler currently loads collections.json
+
+import json
+from pathlib import Path
+
+p = Path(__file__).parent / "data" / "sandbox_urls.json"
+with p.open("r", encoding="utf-8") as f:
+    data = json.load(f)
+
+entries = data.get("sandbox_urls", [])
+for entry in entries:
+    file_path = entry.get("file")
+    file_to_submit = entry.get("file_to_submit", file_path)
+    env_id = entry.get("environment_id")
+    # TODO: integrate with your existing submission logic
+    print(file_path, file_to_submit, env_id)

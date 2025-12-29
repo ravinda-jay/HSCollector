@@ -1,1 +1,1 @@
-# HSCollector
+# HS-Collector

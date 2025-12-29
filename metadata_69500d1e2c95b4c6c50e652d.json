@@ -1,0 +1,30 @@
+{
+    "id": "69500d1e2c95b4c6c50e652d",
+    "name": null,
+    "comment": null,
+    "verdict": "malicious",
+    "size": 252,
+    "number_of_files": 2,
+    "files": [
+        {
+            "hash": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+            "names": [
+                "eicar.com.txt"
+            ],
+            "state": "SUCCESS",
+            "verdict": "malicious",
+            "size": 68
+        },
+        {
+            "hash": "2546dcffc5ad854d4ddc64fbf056871cd5a00f2471cb7a5bfd4ac23b6e9eedad",
+            "names": [
+                "eicar_com.zip"
+            ],
+            "state": "SUCCESS",
+            "verdict": "malicious",
+            "size": 184
+        }
+    ],
+    "created_at": "2025-12-27T16:45:18+00:00",
+    "tags": []
+}
